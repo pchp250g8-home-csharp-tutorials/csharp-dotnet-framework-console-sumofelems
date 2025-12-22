@@ -14,10 +14,10 @@ namespace SumOfElems
             Console.WriteLine("Input a count of elements");
             Int32.TryParse(Console.ReadLine(), out var nElems);
             var iArray = new int[nElems];
-            var rnd = new Random();
+            var oRnd = new Random();
             for (int i = 0; i < nElems; i++)
             {
-                var nItem = rnd.Next(1, 50);
+                var nItem = oRnd.Next(1, 50);
                 iArray[i] = nItem;
             }
             var nSum = 0;
