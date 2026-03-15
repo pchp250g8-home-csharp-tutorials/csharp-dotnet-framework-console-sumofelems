@@ -1,4 +1,4 @@
-SumOfElems. C# Tutorials. DotNet Framework Platform. Simple Input/Output. Arrays. Algorithms. Console Application. 
+SumOfElems. C# Tutorials. DotNet Framework Platform. Simple Input/Output. Arrays. Algorithms. Console Application.
 A console application in the C# programming language. 
 The program does the following:
    1. Asks the user to enter the number of elements in the array.
